@@ -25,7 +25,7 @@ for (const [name, bt, opts] of [['chromium', chromium, {}], ['webkit', webkit, {
   await p.waitForTimeout(800)
   out.push(`${name}: play=${JSON.stringify(r)}`)
   await p.screenshot({ path: `shots/live-${name}.png` })
-  const og = await p.evaluate(async () => { const r = await fetch(document.querySelector('meta[property="og:image"]').content); return r.status + ' ' + r.headers.get('content-type') })
+  const og = await p.evaluate(async () => { const r = await fetch('og.png?v=1'); return r.status + ' ' + r.headers.get('content-type') })
   out.push(`${name}: og=${og} errors=${errs.length ? errs.join(' | ') : 'none'}`)
   await b.close()
 }
