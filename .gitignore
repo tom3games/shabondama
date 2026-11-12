@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+shots/
+art/prompts/
+art/raw/
+art/logs/
+art/gen.sh

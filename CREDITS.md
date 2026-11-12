@@ -1,0 +1,21 @@
+- snd/pop1.mp3: 3 Pop Sounds / wubitog / CC0
+- snd/pop2.mp3: 3 Pop Sounds / wubitog / CC0
+- snd/pop3.mp3: 3 Pop Sounds / wubitog / CC0
+- snd/fan1.mp3: Swishes Sound Pack / artisticdude / CC0
+- snd/fan2.mp3: Swishes Sound Pack / artisticdude / CC0
+- snd/fan3.mp3: Swishes Sound Pack / artisticdude / CC0
+- snd/sneeze.mp3: File:Sneeze.ogg / Neo139 / CC0
+- snd/flap.mp3: Dragon Flap / VishwaJai / CC0
+- snd/mew.mp3: Cat Purr & Meow / Kerzoven / CC0
+- snd/ding.mp3: Bell dings/chimes / PWL / CC0
+- snd/coin.mp3: Coin Drop / Vinrax / CC0
+- snd/jgood.mp3: 85 Short music jingles / Kenney / CC0
+- snd/jmeh.mp3: 85 Short music jingles / Kenney / CC0
+- snd/jover.mp3: 85 Short music jingles / Kenney / CC0
+- snd/jrare.mp3: 85 Short music jingles / Kenney / CC0
+- snd/click.mp3: Interface Sounds / Kenney / CC0
+- snd/window.mp3: 100 CC0 SFX #2 / rubberduck / CC0
+- snd/amb_city.mp3: 上の41〜65秒（静かな通り・車が1台通る）を1.5秒の重ね合わせで継ぎ目なしのループにしたもの（22.5秒・16kHz・WAV） / cori / Public domain
+- snd/amb_wind.mp3: Wind / IgnasD / CC0
+- snd/amb_ac.mp3: 100 CC0 SFX #2 / rubberduck / CC0
+- snd/bgm_play.mp3: Recorder Jam / Of Far Different Nature / CC0
